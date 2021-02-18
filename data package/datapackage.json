@@ -1,21 +1,16 @@
 {
-  "profile": "tabular-data-package",
-  "resources": [
-    {
-      "name": "Henry Hub Daily-gas-prices",
-      "path": "https://github.com/DevTotti/Henry-Hub-Daily-Prices",
-      "profile": "tabular-data-resource",
-      "schema": {}
-    }
-  ],
-  "name": "Henry Hub Daily-gas-prices",
-  "title": "Henry Hub Daily-gas-prices.csv",
-  "description": "CSV file containing daily prices of natural gasses in Dollars per Million Btu since January 6, 1997",
-  "homepage": "https://github.com/DevTotti/Henry-Hub-Daily-Prices",
-  "contributors": [
-    {
-      "title": "Paul Adediran Osuntolu",
-      "role": "author"
-    }
-  ]
-}
+    "name": "Henry Hub Daily-gas-prices",
+    "title": "Henry Hub Daily-gas-prices.csv",
+    "resources": [{
+        "name": "Henry Hub Daily-gas-prices",
+        "path": "https://github.com/DevTotti/Henry-Hub-Daily-Prices",
+        "profile": "tabular-data-resource",
+        "schema": {}
+    }],
+    "contributors": [
+        {
+          "title": "Paul Adediran Osuntolu",
+          "role": "author"
+        }
+      ]
+  }
