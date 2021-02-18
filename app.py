@@ -78,7 +78,7 @@ def sortDate(wk_date):
 
         
 def sendToExcel(price_data):
-    csv_head = ["Date","Price"]
+    csv_head = ["Date","Price (Dollars per Million Btu)"]
     try:
 
         with open('Henry Hub Daily-gas-prices.csv', 'w', newline='', encoding='utf-8') as gasPrice:
