@@ -1,6 +1,6 @@
 # Henry Hub Natural Gas Daily Prices
 
-This repository contains data scraped from the Henry hub website. Data includes the date and prices of natural gas in Dollars per Million Btu. A CSV file containing the data generated is located in the folder [datapackage](https://github.com/DevTotti/Henry-Hub-Daily-Prices/tree/master/data%20package)
+This repository contains data scraped from the Henry hub website. Data includes the date and prices of natural gas in Dollars per Million Btu. A CSV file containing the data generated is located in the folder [datapackage](https://github.com/DevTotti/Henry-Hub-Daily-Prices/tree/master/datapackage)
 
 ## Installation
 
@@ -17,7 +17,7 @@ python app.py
 ```
 This generates a new CSV file in the [datapackage] folder
 
-The output CSV is displayed in a tabular format on [github](https://github.com/DevTotti/Henry-Hub-Daily-Prices/blob/master/data%20package/Henry%20Hub%20Daily-gas-prices.csv)
+The output CSV is displayed in a tabular format on [github](https://github.com/DevTotti/Henry-Hub-Daily-Prices/blob/master/datapackage/Henry%20Hub%20Daily-gas-prices.csv)
 
 
 ## Contributing
